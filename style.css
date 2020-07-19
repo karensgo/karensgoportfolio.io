@@ -7,6 +7,10 @@ body {
     
 }
 
+img {
+ widht: 100%;
+}
+
 header {
     width: 100%;
     justify-content: space-around;
