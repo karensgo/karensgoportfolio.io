@@ -1,10 +1,9 @@
-body {
+* {
     max-width: 1919px;
     font-family: "Segoe UI", "Roboto", sans-serif;
     margin: 0;
     max-width: 1919px;
     position: relative;
-    
 }
 
 img {
